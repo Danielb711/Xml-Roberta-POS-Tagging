@@ -3,7 +3,7 @@ library_name: transformers
 pipeline_tag: token-classification
 ---
 
-# Model Card for Model ID
+# Model Card for PosTag-XmlRoberta-BHD
 
 L52-PosTag-XmlRoberta is a token classification model, trained in the Spanish language.
 
